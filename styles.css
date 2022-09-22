@@ -2,11 +2,12 @@ body{
     text-align: center;
     background-color:#800080;
     margin: 20%;
-
 }
+
 h1{
     color: #E514BC;
 }
+
 #changeBtn{
     border-radius: 30px;
     font-size: large;
