@@ -1,15 +1,15 @@
 body{
     text-align: center;
-    margin-top: 50%;
     background-color:#800080;
+    margin: 20%;
 
 }
 h1{
     color: #E514BC;
 }
-button{
-    border-radius: 9px;
+#changeBtn{
+    border-radius: 30px;
     font-size: large;
-    border: 1px;
+    border: none;
     background-color: dimgray;
 }
